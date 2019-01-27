@@ -4,7 +4,9 @@ layout: default
 
 ## Objet de l'association
 
-L'association {{ site.association_name }}, type 1901, est née de la volonté des organisateurs du [Spring Meetup Paris](https://www.meetup.com/Spring-Meetup-Paris/) et du [Paris Hackergarten](https://www.meetup.com/Paris-Hackergarten/) de structurer ses efforts et d'investir dans des sessions permettant de partager des connaissances autour de projets informatiques récents au plus grand nombre.
+L'association {{ site.association_name }}, type 1901, est née de la volonté des organisateurs du [Spring Meetup Paris](https://www.meetup.com/Spring-Meetup-Paris/) et du [Paris Hackergarten](https://www.meetup.com/Paris-Hackergarten/) de structurer ses efforts.
+
+Elle vise à supporter le financement d'événements techniques récurrents et ponctuels à destination des communautés locales de développeur&middot;se&middot;s.
 
 ## Activités
 
