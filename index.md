@@ -23,7 +23,7 @@ L'association aide à organiser :
  - Florent Biville, président
  - Yoann Henry, trésorier
 
-### Autres membres
+### Membres actifs
 
  - Thibaud Leprêtre, membre actif
  - Marouane Ganazayi, membre actif
