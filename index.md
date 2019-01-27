@@ -25,8 +25,8 @@ L'association aide à organiser :
 
 ### Membres actifs
 
- - Thibaud Leprêtre, membre actif
- - Marouane Ganazayi, membre actif
+ - Thibaud Leprêtre
+ - Marouane Ganazayi
 
 ### Membres d'honneur
 
