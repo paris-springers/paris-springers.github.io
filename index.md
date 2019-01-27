@@ -34,20 +34,21 @@ L'association est actuellement en démarche pour devenir une association d'inté
 
 Cette démarche n'est pas finalisée, **aucun don ne peut pour l'instant donner droit à une réduction d'impôt.**
 
-#### Particuliers
+### Dons libres
 
 Vous pouvez effectuer un don libre en cliquant [le bouton de don Paypal](#paypal_gift) et saisir le montant de votre choix avant de continuer.
 
 Ce don servira directement à l'organisation des activités de l'association.
 Il n'engage en revanche aucune contrepartie. 
 
-#### Entreprises
+### Dons d'adhésion - membre bienfaiteur
 
-Les entreprises souhaitant devenir sponsors de l'association doivent s'acquitter d'un montant de {{ site.sponsors.gold.fees.entrance }} payable une seule fois et d'une cotisation annuelle de {{ site.sponsors.gold.fees.subscription }}.
+Les personnes physiques ou morales souhaitant devenir sponsors de l'association (membres bienfaiteurs) doivent s'acquitter d'un montant de {{ site.sponsors.gold.fees.entrance }} payable une seule fois et d'une cotisation annuelle de {{ site.sponsors.gold.fees.subscription }}.
 
 L'association s'engage en contrepartie à :
 
- - faire apparaître en permanence le logo de l'entreprise sur le présent document ainsi qu'un lien vers son site web
- - dédier un créneau de preésentation de l'entreprise limité dans le temps au début de l'activité désignée par l'entreprise (par défaut : Spring Meetup Paris), répétable 3 fois dans les 12 mois
+ - faire apparaître en permanence une mention du donneur sur le présent document ainsi qu'un lien vers son site web
+ - dédier un créneau de présentation du donneur limité dans le temps au début de l'activité désignée par l'entreprise (par défaut : Spring Meetup Paris), répétable 3 fois dans les 12 mois
+ - héberger l'activité désignée par l'entreprise (par défaut : Spring Meetup Paris) une fois dans l'année
 
 
