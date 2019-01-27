@@ -28,6 +28,15 @@ L'association aide à organiser :
  - Thibaud Leprêtre, membre actif
  - Marouane Ganazayi, membre actif
 
+### Membres d'honneur
+
+Sont désignées membres d'honneur les personnes ayant rendu des services exceptionnels à l'association.
+
+L'association est heureuse de compter dans ses rangs les membres d'honneur suivants :
+
+ - Stéphane Nicoll, pour son soutien inconditionnel du [Spring Meetup Paris](https://www.meetup.com/Spring-Meetup-Paris/) dès ses débuts
+ - Hervé Boutémy, pour son implication infaillible dans le [Paris Hackergarten](https://www.meetup.com/Paris-Hackergarten/)
+
 ## Faire un don
 
 L'association est actuellement en démarche pour devenir une association d'intérêt général et donc avoir la possibilité d'émettre des reçus fiscaux donnant le droit au donneur à une réduction d'impôt.
