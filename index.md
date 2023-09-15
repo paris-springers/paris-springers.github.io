@@ -12,21 +12,17 @@ Elle vise à supporter le financement d'événements techniques récurrents et p
 
 L'association aide à organiser :
 
- - le [Spring Meetup Paris](https://www.meetup.com/Spring-Meetup-Paris/) pour échanger autour des technologies de [Pivotal](https://pivotal.io)
+ - le [Spring Meetup Paris](https://www.meetup.com/Spring-Meetup-Paris/) pour échanger autour des technologies du portfolio [Spring](https://spring.io/projects)
  - le [Paris Hackergarten](https://www.meetup.com/Paris-Hackergarten/), rencontre mensuelle de développement de logiciels open-source
- - [hack.commit.push](http://hackergarten.net/Paris2019/), similaire au Paris Hackergarten mais se déroulant toute la journée du 15 juin 2019.
+ - [hack.commit.push](https://hack-commit-pu.sh/), similaire au Paris Hackergarten mais se déroulant généralement toute une journée.
 
 ## Membres actuels
 
 ### Dirigeants
 
  - Florent Biville, président
- - Yoann Henry, trésorier
-
-### Membres actifs
-
- - Thibaud Leprêtre
- - Marouane Ganazayi
+ - Agathe Vaisse, trésorière
+ - Thibaud Leprêtre, secrétaire
 
 ### Membres d'honneur
 
@@ -35,7 +31,8 @@ Sont désignées membres d'honneur les personnes ayant rendu des services except
 L'association est heureuse de compter dans ses rangs les membres d'honneur suivants :
 
  - Stéphane Nicoll, pour son soutien inconditionnel du [Spring Meetup Paris](https://www.meetup.com/Spring-Meetup-Paris/) dès ses débuts
- - Hervé Boutémy, pour son implication infaillible dans le [Paris Hackergarten](https://www.meetup.com/Paris-Hackergarten/)
+ - Hervé Boutémy, pour son implication infaillible dans l'organisation du [Paris Hackergarten](https://www.meetup.com/Paris-Hackergarten/) et du [hack-commit-push](https://hack-commit-pu.sh/)
+ - Andres Almiray, pour son implication infaillible dans l'organisation du [hack-commit-push](https://hack-commit-pu.sh/)
 
 ## Faire un don
 
